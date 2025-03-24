@@ -1,2 +1,2 @@
 # Oil-price-prediction
-Prediction of oil price using R
+Prediction of oil price using Python
